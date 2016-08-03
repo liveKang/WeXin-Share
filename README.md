@@ -3,7 +3,6 @@
 * 目前微信开放平台API，对于移动端APP应用只开放了Android和IOS原生APP调用接口。
 * 关于微信JSSDK需要在微信内部使用，适用于微信公众号等开发。
 * 选择开源cordova插件[https://github.com/xu-li/cordova-plugin-wechat](https://github.com/xu-li/cordova-plugin-wechat)
-##开发实战
 
 ###安装插件
 * 命令行<pre>cordova plugin add cordova-plugin-wechat --variable wechatappid=YOUR_WECHAT_APPID</pre>
